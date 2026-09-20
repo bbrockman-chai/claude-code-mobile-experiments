@@ -1,0 +1,248 @@
+design,follow_up_years,mdes_relative_reduction
+"A. Parallel CRT, 30 vs 30, no baseline",0.50,0.3141
+"A. Parallel CRT, 30 vs 30, no baseline",0.75,0.2761
+"A. Parallel CRT, 30 vs 30, no baseline",1.00,0.2543
+"A. Parallel CRT, 30 vs 30, no baseline",1.25,0.2401
+"A. Parallel CRT, 30 vs 30, no baseline",1.50,0.2300
+"A. Parallel CRT, 30 vs 30, no baseline",1.75,0.2224
+"A. Parallel CRT, 30 vs 30, no baseline",2.00,0.2166
+"A. Parallel CRT, 30 vs 30, no baseline",2.25,0.2119
+"A. Parallel CRT, 30 vs 30, no baseline",2.50,0.2080
+"A. Parallel CRT, 30 vs 30, no baseline",2.75,0.2048
+"A. Parallel CRT, 30 vs 30, no baseline",3.00,0.2021
+"A. Parallel CRT, 30 vs 30, no baseline",3.25,0.1998
+"A. Parallel CRT, 30 vs 30, no baseline",3.50,0.1977
+"A. Parallel CRT, 30 vs 30, no baseline",3.75,0.1960
+"A. Parallel CRT, 30 vs 30, no baseline",4.00,0.1944
+"A. Parallel CRT, 30 vs 30, no baseline",4.25,0.1930
+"A. Parallel CRT, 30 vs 30, no baseline",4.50,0.1917
+"A. Parallel CRT, 30 vs 30, no baseline",4.75,0.1906
+"A. Parallel CRT, 30 vs 30, no baseline",5.00,0.1896
+"B. Parallel CRT, 30 vs 90 controls, no baseline",0.50,0.2475
+"B. Parallel CRT, 30 vs 90 controls, no baseline",0.75,0.2181
+"B. Parallel CRT, 30 vs 90 controls, no baseline",1.00,0.2012
+"B. Parallel CRT, 30 vs 90 controls, no baseline",1.25,0.1901
+"B. Parallel CRT, 30 vs 90 controls, no baseline",1.50,0.1822
+"B. Parallel CRT, 30 vs 90 controls, no baseline",1.75,0.1763
+"B. Parallel CRT, 30 vs 90 controls, no baseline",2.00,0.1717
+"B. Parallel CRT, 30 vs 90 controls, no baseline",2.25,0.1680
+"B. Parallel CRT, 30 vs 90 controls, no baseline",2.50,0.1650
+"B. Parallel CRT, 30 vs 90 controls, no baseline",2.75,0.1625
+"B. Parallel CRT, 30 vs 90 controls, no baseline",3.00,0.1603
+"B. Parallel CRT, 30 vs 90 controls, no baseline",3.25,0.1585
+"B. Parallel CRT, 30 vs 90 controls, no baseline",3.50,0.1569
+"B. Parallel CRT, 30 vs 90 controls, no baseline",3.75,0.1555
+"B. Parallel CRT, 30 vs 90 controls, no baseline",4.00,0.1542
+"B. Parallel CRT, 30 vs 90 controls, no baseline",4.25,0.1531
+"B. Parallel CRT, 30 vs 90 controls, no baseline",4.50,0.1522
+"B. Parallel CRT, 30 vs 90 controls, no baseline",4.75,0.1513
+"B. Parallel CRT, 30 vs 90 controls, no baseline",5.00,0.1505
+"C. Parallel CRT, 30 vs 30, adjusted for 3-yr DHIS2 baseline",0.50,0.2907
+"C. Parallel CRT, 30 vs 30, adjusted for 3-yr DHIS2 baseline",0.75,0.2477
+"C. Parallel CRT, 30 vs 30, adjusted for 3-yr DHIS2 baseline",1.00,0.2222
+"C. Parallel CRT, 30 vs 30, adjusted for 3-yr DHIS2 baseline",1.25,0.2050
+"C. Parallel CRT, 30 vs 30, adjusted for 3-yr DHIS2 baseline",1.50,0.1925
+"C. Parallel CRT, 30 vs 30, adjusted for 3-yr DHIS2 baseline",1.75,0.1830
+"C. Parallel CRT, 30 vs 30, adjusted for 3-yr DHIS2 baseline",2.00,0.1755
+"C. Parallel CRT, 30 vs 30, adjusted for 3-yr DHIS2 baseline",2.25,0.1693
+"C. Parallel CRT, 30 vs 30, adjusted for 3-yr DHIS2 baseline",2.50,0.1642
+"C. Parallel CRT, 30 vs 30, adjusted for 3-yr DHIS2 baseline",2.75,0.1599
+"C. Parallel CRT, 30 vs 30, adjusted for 3-yr DHIS2 baseline",3.00,0.1562
+"C. Parallel CRT, 30 vs 30, adjusted for 3-yr DHIS2 baseline",3.25,0.1530
+"C. Parallel CRT, 30 vs 30, adjusted for 3-yr DHIS2 baseline",3.50,0.1502
+"C. Parallel CRT, 30 vs 30, adjusted for 3-yr DHIS2 baseline",3.75,0.1477
+"C. Parallel CRT, 30 vs 30, adjusted for 3-yr DHIS2 baseline",4.00,0.1455
+"C. Parallel CRT, 30 vs 30, adjusted for 3-yr DHIS2 baseline",4.25,0.1435
+"C. Parallel CRT, 30 vs 30, adjusted for 3-yr DHIS2 baseline",4.50,0.1417
+"C. Parallel CRT, 30 vs 30, adjusted for 3-yr DHIS2 baseline",4.75,0.1401
+"C. Parallel CRT, 30 vs 30, adjusted for 3-yr DHIS2 baseline",5.00,0.1386
+"D. Parallel CRT, 30 vs 90, adjusted for 3-yr DHIS2 baseline",0.50,0.2301
+"D. Parallel CRT, 30 vs 90, adjusted for 3-yr DHIS2 baseline",0.75,0.1966
+"D. Parallel CRT, 30 vs 90, adjusted for 3-yr DHIS2 baseline",1.00,0.1767
+"D. Parallel CRT, 30 vs 90, adjusted for 3-yr DHIS2 baseline",1.25,0.1632
+"D. Parallel CRT, 30 vs 90, adjusted for 3-yr DHIS2 baseline",1.50,0.1534
+"D. Parallel CRT, 30 vs 90, adjusted for 3-yr DHIS2 baseline",1.75,0.1459
+"D. Parallel CRT, 30 vs 90, adjusted for 3-yr DHIS2 baseline",2.00,0.1400
+"D. Parallel CRT, 30 vs 90, adjusted for 3-yr DHIS2 baseline",2.25,0.1351
+"D. Parallel CRT, 30 vs 90, adjusted for 3-yr DHIS2 baseline",2.50,0.1311
+"D. Parallel CRT, 30 vs 90, adjusted for 3-yr DHIS2 baseline",2.75,0.1277
+"D. Parallel CRT, 30 vs 90, adjusted for 3-yr DHIS2 baseline",3.00,0.1247
+"D. Parallel CRT, 30 vs 90, adjusted for 3-yr DHIS2 baseline",3.25,0.1222
+"D. Parallel CRT, 30 vs 90, adjusted for 3-yr DHIS2 baseline",3.50,0.1200
+"D. Parallel CRT, 30 vs 90, adjusted for 3-yr DHIS2 baseline",3.75,0.1180
+"D. Parallel CRT, 30 vs 90, adjusted for 3-yr DHIS2 baseline",4.00,0.1162
+"D. Parallel CRT, 30 vs 90, adjusted for 3-yr DHIS2 baseline",4.25,0.1147
+"D. Parallel CRT, 30 vs 90, adjusted for 3-yr DHIS2 baseline",4.50,0.1132
+"D. Parallel CRT, 30 vs 90, adjusted for 3-yr DHIS2 baseline",4.75,0.1120
+"D. Parallel CRT, 30 vs 90, adjusted for 3-yr DHIS2 baseline",5.00,0.1108
+"E. Stepped wedge, 30 facilities, 5 steps (no external controls)",0.50,0.5201
+"E. Stepped wedge, 30 facilities, 5 steps (no external controls)",0.75,0.4464
+"E. Stepped wedge, 30 facilities, 5 steps (no external controls)",1.00,0.4004
+"E. Stepped wedge, 30 facilities, 5 steps (no external controls)",1.25,0.3679
+"E. Stepped wedge, 30 facilities, 5 steps (no external controls)",1.50,0.3432
+"E. Stepped wedge, 30 facilities, 5 steps (no external controls)",1.75,0.3235
+"E. Stepped wedge, 30 facilities, 5 steps (no external controls)",2.00,0.3073
+"E. Stepped wedge, 30 facilities, 5 steps (no external controls)",2.25,0.2936
+"E. Stepped wedge, 30 facilities, 5 steps (no external controls)",2.50,0.2818
+"E. Stepped wedge, 30 facilities, 5 steps (no external controls)",2.75,0.2715
+"E. Stepped wedge, 30 facilities, 5 steps (no external controls)",3.00,0.2623
+"E. Stepped wedge, 30 facilities, 5 steps (no external controls)",3.25,0.2541
+"E. Stepped wedge, 30 facilities, 5 steps (no external controls)",3.50,0.2467
+"E. Stepped wedge, 30 facilities, 5 steps (no external controls)",3.75,0.2399
+"E. Stepped wedge, 30 facilities, 5 steps (no external controls)",4.00,0.2338
+"E. Stepped wedge, 30 facilities, 5 steps (no external controls)",4.25,0.2281
+"E. Stepped wedge, 30 facilities, 5 steps (no external controls)",4.50,0.2228
+"E. Stepped wedge, 30 facilities, 5 steps (no external controls)",4.75,0.2179
+"E. Stepped wedge, 30 facilities, 5 steps (no external controls)",5.00,0.2134
+"D. Randomised: 30 vs 90, adjusted for 3-yr baseline (best RCT above)",0.50,0.2301
+"D. Randomised: 30 vs 90, adjusted for 3-yr baseline (best RCT above)",0.75,0.1966
+"D. Randomised: 30 vs 90, adjusted for 3-yr baseline (best RCT above)",1.00,0.1767
+"D. Randomised: 30 vs 90, adjusted for 3-yr baseline (best RCT above)",1.25,0.1632
+"D. Randomised: 30 vs 90, adjusted for 3-yr baseline (best RCT above)",1.50,0.1534
+"D. Randomised: 30 vs 90, adjusted for 3-yr baseline (best RCT above)",1.75,0.1459
+"D. Randomised: 30 vs 90, adjusted for 3-yr baseline (best RCT above)",2.00,0.1400
+"D. Randomised: 30 vs 90, adjusted for 3-yr baseline (best RCT above)",2.25,0.1351
+"D. Randomised: 30 vs 90, adjusted for 3-yr baseline (best RCT above)",2.50,0.1311
+"D. Randomised: 30 vs 90, adjusted for 3-yr baseline (best RCT above)",2.75,0.1277
+"D. Randomised: 30 vs 90, adjusted for 3-yr baseline (best RCT above)",3.00,0.1247
+"D. Randomised: 30 vs 90, adjusted for 3-yr baseline (best RCT above)",3.25,0.1222
+"D. Randomised: 30 vs 90, adjusted for 3-yr baseline (best RCT above)",3.50,0.1200
+"D. Randomised: 30 vs 90, adjusted for 3-yr baseline (best RCT above)",3.75,0.1180
+"D. Randomised: 30 vs 90, adjusted for 3-yr baseline (best RCT above)",4.00,0.1162
+"D. Randomised: 30 vs 90, adjusted for 3-yr baseline (best RCT above)",4.25,0.1147
+"D. Randomised: 30 vs 90, adjusted for 3-yr baseline (best RCT above)",4.50,0.1132
+"D. Randomised: 30 vs 90, adjusted for 3-yr baseline (best RCT above)",4.75,0.1120
+"D. Randomised: 30 vs 90, adjusted for 3-yr baseline (best RCT above)",5.00,0.1108
+"F. Non-randomised DiD vs 150 DHIS2 facilities, 3-yr baseline (DHIS2 outcome, 70% complete)",0.50,0.2544
+"F. Non-randomised DiD vs 150 DHIS2 facilities, 3-yr baseline (DHIS2 outcome, 70% complete)",0.75,0.2203
+"F. Non-randomised DiD vs 150 DHIS2 facilities, 3-yr baseline (DHIS2 outcome, 70% complete)",1.00,0.2000
+"F. Non-randomised DiD vs 150 DHIS2 facilities, 3-yr baseline (DHIS2 outcome, 70% complete)",1.25,0.1862
+"F. Non-randomised DiD vs 150 DHIS2 facilities, 3-yr baseline (DHIS2 outcome, 70% complete)",1.50,0.1763
+"F. Non-randomised DiD vs 150 DHIS2 facilities, 3-yr baseline (DHIS2 outcome, 70% complete)",1.75,0.1687
+"F. Non-randomised DiD vs 150 DHIS2 facilities, 3-yr baseline (DHIS2 outcome, 70% complete)",2.00,0.1626
+"F. Non-randomised DiD vs 150 DHIS2 facilities, 3-yr baseline (DHIS2 outcome, 70% complete)",2.25,0.1578
+"F. Non-randomised DiD vs 150 DHIS2 facilities, 3-yr baseline (DHIS2 outcome, 70% complete)",2.50,0.1537
+"F. Non-randomised DiD vs 150 DHIS2 facilities, 3-yr baseline (DHIS2 outcome, 70% complete)",2.75,0.1503
+"F. Non-randomised DiD vs 150 DHIS2 facilities, 3-yr baseline (DHIS2 outcome, 70% complete)",3.00,0.1473
+"F. Non-randomised DiD vs 150 DHIS2 facilities, 3-yr baseline (DHIS2 outcome, 70% complete)",3.25,0.1448
+"F. Non-randomised DiD vs 150 DHIS2 facilities, 3-yr baseline (DHIS2 outcome, 70% complete)",3.50,0.1425
+"F. Non-randomised DiD vs 150 DHIS2 facilities, 3-yr baseline (DHIS2 outcome, 70% complete)",3.75,0.1406
+"F. Non-randomised DiD vs 150 DHIS2 facilities, 3-yr baseline (DHIS2 outcome, 70% complete)",4.00,0.1388
+"F. Non-randomised DiD vs 150 DHIS2 facilities, 3-yr baseline (DHIS2 outcome, 70% complete)",4.25,0.1373
+"F. Non-randomised DiD vs 150 DHIS2 facilities, 3-yr baseline (DHIS2 outcome, 70% complete)",4.50,0.1358
+"F. Non-randomised DiD vs 150 DHIS2 facilities, 3-yr baseline (DHIS2 outcome, 70% complete)",4.75,0.1346
+"F. Non-randomised DiD vs 150 DHIS2 facilities, 3-yr baseline (DHIS2 outcome, 70% complete)",5.00,0.1334
+"G. Non-randomised DiD vs 150 DHIS2 facilities, 6-yr baseline (DHIS2 outcome, 70% complete)",0.50,0.2440
+"G. Non-randomised DiD vs 150 DHIS2 facilities, 6-yr baseline (DHIS2 outcome, 70% complete)",0.75,0.2079
+"G. Non-randomised DiD vs 150 DHIS2 facilities, 6-yr baseline (DHIS2 outcome, 70% complete)",1.00,0.1860
+"G. Non-randomised DiD vs 150 DHIS2 facilities, 6-yr baseline (DHIS2 outcome, 70% complete)",1.25,0.1710
+"G. Non-randomised DiD vs 150 DHIS2 facilities, 6-yr baseline (DHIS2 outcome, 70% complete)",1.50,0.1600
+"G. Non-randomised DiD vs 150 DHIS2 facilities, 6-yr baseline (DHIS2 outcome, 70% complete)",1.75,0.1514
+"G. Non-randomised DiD vs 150 DHIS2 facilities, 6-yr baseline (DHIS2 outcome, 70% complete)",2.00,0.1446
+"G. Non-randomised DiD vs 150 DHIS2 facilities, 6-yr baseline (DHIS2 outcome, 70% complete)",2.25,0.1390
+"G. Non-randomised DiD vs 150 DHIS2 facilities, 6-yr baseline (DHIS2 outcome, 70% complete)",2.50,0.1343
+"G. Non-randomised DiD vs 150 DHIS2 facilities, 6-yr baseline (DHIS2 outcome, 70% complete)",2.75,0.1303
+"G. Non-randomised DiD vs 150 DHIS2 facilities, 6-yr baseline (DHIS2 outcome, 70% complete)",3.00,0.1268
+"G. Non-randomised DiD vs 150 DHIS2 facilities, 6-yr baseline (DHIS2 outcome, 70% complete)",3.25,0.1238
+"G. Non-randomised DiD vs 150 DHIS2 facilities, 6-yr baseline (DHIS2 outcome, 70% complete)",3.50,0.1212
+"G. Non-randomised DiD vs 150 DHIS2 facilities, 6-yr baseline (DHIS2 outcome, 70% complete)",3.75,0.1188
+"G. Non-randomised DiD vs 150 DHIS2 facilities, 6-yr baseline (DHIS2 outcome, 70% complete)",4.00,0.1167
+"G. Non-randomised DiD vs 150 DHIS2 facilities, 6-yr baseline (DHIS2 outcome, 70% complete)",4.25,0.1148
+"G. Non-randomised DiD vs 150 DHIS2 facilities, 6-yr baseline (DHIS2 outcome, 70% complete)",4.50,0.1130
+"G. Non-randomised DiD vs 150 DHIS2 facilities, 6-yr baseline (DHIS2 outcome, 70% complete)",4.75,0.1115
+"G. Non-randomised DiD vs 150 DHIS2 facilities, 6-yr baseline (DHIS2 outcome, 70% complete)",5.00,0.1100
+"H. As G, plus proxy covariates absorbing half the year-to-year shocks (illustrative)",0.50,0.2292
+"H. As G, plus proxy covariates absorbing half the year-to-year shocks (illustrative)",0.75,0.1946
+"H. As G, plus proxy covariates absorbing half the year-to-year shocks (illustrative)",1.00,0.1737
+"H. As G, plus proxy covariates absorbing half the year-to-year shocks (illustrative)",1.25,0.1594
+"H. As G, plus proxy covariates absorbing half the year-to-year shocks (illustrative)",1.50,0.1490
+"H. As G, plus proxy covariates absorbing half the year-to-year shocks (illustrative)",1.75,0.1409
+"H. As G, plus proxy covariates absorbing half the year-to-year shocks (illustrative)",2.00,0.1344
+"H. As G, plus proxy covariates absorbing half the year-to-year shocks (illustrative)",2.25,0.1291
+"H. As G, plus proxy covariates absorbing half the year-to-year shocks (illustrative)",2.50,0.1247
+"H. As G, plus proxy covariates absorbing half the year-to-year shocks (illustrative)",2.75,0.1209
+"H. As G, plus proxy covariates absorbing half the year-to-year shocks (illustrative)",3.00,0.1177
+"H. As G, plus proxy covariates absorbing half the year-to-year shocks (illustrative)",3.25,0.1148
+"H. As G, plus proxy covariates absorbing half the year-to-year shocks (illustrative)",3.50,0.1123
+"H. As G, plus proxy covariates absorbing half the year-to-year shocks (illustrative)",3.75,0.1101
+"H. As G, plus proxy covariates absorbing half the year-to-year shocks (illustrative)",4.00,0.1081
+"H. As G, plus proxy covariates absorbing half the year-to-year shocks (illustrative)",4.25,0.1063
+"H. As G, plus proxy covariates absorbing half the year-to-year shocks (illustrative)",4.50,0.1047
+"H. As G, plus proxy covariates absorbing half the year-to-year shocks (illustrative)",4.75,0.1032
+"H. As G, plus proxy covariates absorbing half the year-to-year shocks (illustrative)",5.00,0.1018
+"Outcome: All under-5 deaths in catchment (65/1,000 births)",0.50,0.2301
+"Outcome: All under-5 deaths in catchment (65/1,000 births)",0.75,0.1966
+"Outcome: All under-5 deaths in catchment (65/1,000 births)",1.00,0.1767
+"Outcome: All under-5 deaths in catchment (65/1,000 births)",1.25,0.1632
+"Outcome: All under-5 deaths in catchment (65/1,000 births)",1.50,0.1534
+"Outcome: All under-5 deaths in catchment (65/1,000 births)",1.75,0.1459
+"Outcome: All under-5 deaths in catchment (65/1,000 births)",2.00,0.1400
+"Outcome: All under-5 deaths in catchment (65/1,000 births)",2.25,0.1351
+"Outcome: All under-5 deaths in catchment (65/1,000 births)",2.50,0.1311
+"Outcome: All under-5 deaths in catchment (65/1,000 births)",2.75,0.1277
+"Outcome: All under-5 deaths in catchment (65/1,000 births)",3.00,0.1247
+"Outcome: All under-5 deaths in catchment (65/1,000 births)",3.25,0.1222
+"Outcome: All under-5 deaths in catchment (65/1,000 births)",3.50,0.1200
+"Outcome: All under-5 deaths in catchment (65/1,000 births)",3.75,0.1180
+"Outcome: All under-5 deaths in catchment (65/1,000 births)",4.00,0.1162
+"Outcome: All under-5 deaths in catchment (65/1,000 births)",4.25,0.1147
+"Outcome: All under-5 deaths in catchment (65/1,000 births)",4.50,0.1132
+"Outcome: All under-5 deaths in catchment (65/1,000 births)",4.75,0.1120
+"Outcome: All under-5 deaths in catchment (65/1,000 births)",5.00,0.1108
+"Outcome: Deaths at 1-59 months only (34/1,000 births; CDS-sensitive)",0.50,0.2903
+"Outcome: Deaths at 1-59 months only (34/1,000 births; CDS-sensitive)",0.75,0.2486
+"Outcome: Deaths at 1-59 months only (34/1,000 births; CDS-sensitive)",1.00,0.2236
+"Outcome: Deaths at 1-59 months only (34/1,000 births; CDS-sensitive)",1.25,0.2066
+"Outcome: Deaths at 1-59 months only (34/1,000 births; CDS-sensitive)",1.50,0.1941
+"Outcome: Deaths at 1-59 months only (34/1,000 births; CDS-sensitive)",1.75,0.1846
+"Outcome: Deaths at 1-59 months only (34/1,000 births; CDS-sensitive)",2.00,0.1770
+"Outcome: Deaths at 1-59 months only (34/1,000 births; CDS-sensitive)",2.25,0.1709
+"Outcome: Deaths at 1-59 months only (34/1,000 births; CDS-sensitive)",2.50,0.1657
+"Outcome: Deaths at 1-59 months only (34/1,000 births; CDS-sensitive)",2.75,0.1613
+"Outcome: Deaths at 1-59 months only (34/1,000 births; CDS-sensitive)",3.00,0.1576
+"Outcome: Deaths at 1-59 months only (34/1,000 births; CDS-sensitive)",3.25,0.1543
+"Outcome: Deaths at 1-59 months only (34/1,000 births; CDS-sensitive)",3.50,0.1515
+"Outcome: Deaths at 1-59 months only (34/1,000 births; CDS-sensitive)",3.75,0.1489
+"Outcome: Deaths at 1-59 months only (34/1,000 births; CDS-sensitive)",4.00,0.1467
+"Outcome: Deaths at 1-59 months only (34/1,000 births; CDS-sensitive)",4.25,0.1447
+"Outcome: Deaths at 1-59 months only (34/1,000 births; CDS-sensitive)",4.50,0.1428
+"Outcome: Deaths at 1-59 months only (34/1,000 births; CDS-sensitive)",4.75,0.1412
+"Outcome: Deaths at 1-59 months only (34/1,000 births; CDS-sensitive)",5.00,0.1397
+"Outcome: Deaths within 30 days of a sick-child visit (0.6% of ~3,000 visits/yr)",0.50,0.2246
+"Outcome: Deaths within 30 days of a sick-child visit (0.6% of ~3,000 visits/yr)",0.75,0.1929
+"Outcome: Deaths within 30 days of a sick-child visit (0.6% of ~3,000 visits/yr)",1.00,0.1741
+"Outcome: Deaths within 30 days of a sick-child visit (0.6% of ~3,000 visits/yr)",1.25,0.1615
+"Outcome: Deaths within 30 days of a sick-child visit (0.6% of ~3,000 visits/yr)",1.50,0.1524
+"Outcome: Deaths within 30 days of a sick-child visit (0.6% of ~3,000 visits/yr)",1.75,0.1454
+"Outcome: Deaths within 30 days of a sick-child visit (0.6% of ~3,000 visits/yr)",2.00,0.1399
+"Outcome: Deaths within 30 days of a sick-child visit (0.6% of ~3,000 visits/yr)",2.25,0.1355
+"Outcome: Deaths within 30 days of a sick-child visit (0.6% of ~3,000 visits/yr)",2.50,0.1318
+"Outcome: Deaths within 30 days of a sick-child visit (0.6% of ~3,000 visits/yr)",2.75,0.1286
+"Outcome: Deaths within 30 days of a sick-child visit (0.6% of ~3,000 visits/yr)",3.00,0.1260
+"Outcome: Deaths within 30 days of a sick-child visit (0.6% of ~3,000 visits/yr)",3.25,0.1236
+"Outcome: Deaths within 30 days of a sick-child visit (0.6% of ~3,000 visits/yr)",3.50,0.1216
+"Outcome: Deaths within 30 days of a sick-child visit (0.6% of ~3,000 visits/yr)",3.75,0.1198
+"Outcome: Deaths within 30 days of a sick-child visit (0.6% of ~3,000 visits/yr)",4.00,0.1182
+"Outcome: Deaths within 30 days of a sick-child visit (0.6% of ~3,000 visits/yr)",4.25,0.1168
+"Outcome: Deaths within 30 days of a sick-child visit (0.6% of ~3,000 visits/yr)",4.50,0.1155
+"Outcome: Deaths within 30 days of a sick-child visit (0.6% of ~3,000 visits/yr)",4.75,0.1144
+"Outcome: Deaths within 30 days of a sick-child visit (0.6% of ~3,000 visits/yr)",5.00,0.1133
+Outcome: In-facility / referral under-5 deaths only (25% of deaths captured),0.50,0.3740
+Outcome: In-facility / referral under-5 deaths only (25% of deaths captured),0.75,0.3180
+Outcome: In-facility / referral under-5 deaths only (25% of deaths captured),1.00,0.2833
+Outcome: In-facility / referral under-5 deaths only (25% of deaths captured),1.25,0.2592
+Outcome: In-facility / referral under-5 deaths only (25% of deaths captured),1.50,0.2412
+Outcome: In-facility / referral under-5 deaths only (25% of deaths captured),1.75,0.2272
+Outcome: In-facility / referral under-5 deaths only (25% of deaths captured),2.00,0.2159
+Outcome: In-facility / referral under-5 deaths only (25% of deaths captured),2.25,0.2065
+Outcome: In-facility / referral under-5 deaths only (25% of deaths captured),2.50,0.1986
+Outcome: In-facility / referral under-5 deaths only (25% of deaths captured),2.75,0.1918
+Outcome: In-facility / referral under-5 deaths only (25% of deaths captured),3.00,0.1859
+Outcome: In-facility / referral under-5 deaths only (25% of deaths captured),3.25,0.1807
+Outcome: In-facility / referral under-5 deaths only (25% of deaths captured),3.50,0.1761
+Outcome: In-facility / referral under-5 deaths only (25% of deaths captured),3.75,0.1720
+Outcome: In-facility / referral under-5 deaths only (25% of deaths captured),4.00,0.1683
+Outcome: In-facility / referral under-5 deaths only (25% of deaths captured),4.25,0.1650
+Outcome: In-facility / referral under-5 deaths only (25% of deaths captured),4.50,0.1620
+Outcome: In-facility / referral under-5 deaths only (25% of deaths captured),4.75,0.1592
+Outcome: In-facility / referral under-5 deaths only (25% of deaths captured),5.00,0.1566
