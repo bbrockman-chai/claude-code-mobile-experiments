@@ -14,7 +14,7 @@ import numpy as np
 import matplotlib
 import matplotlib.pyplot as plt
 
-from model import Assumptions, mdes_parallel, power_parallel
+from model import Assumptions, mdes_parallel, power_parallel, ramp_factor
 from plotting import (SERIES, INK, INK2, MUTED, AXIS, SURFACE,
                       direct_label, place_labels)
 
@@ -25,13 +25,6 @@ BASE = Assumptions()
 MONTHS = np.arange(6, 18.01, 0.5)
 YEARS = MONTHS / 12.0
 RAMP_MONTHS = 3.0   # linear ramp to full fidelity over the first 3 months
-
-
-def ramp_factor(T_years: float, ramp_years: float = RAMP_MONTHS / 12) -> float:
-    """Average fraction of full effect over follow-up with a linear ramp-up."""
-    if T_years <= ramp_years:
-        return 0.5 * T_years / ramp_years
-    return 1.0 - 0.5 * ramp_years / T_years
 
 
 def mdes_with_ramp(a: Assumptions, T: float) -> float:

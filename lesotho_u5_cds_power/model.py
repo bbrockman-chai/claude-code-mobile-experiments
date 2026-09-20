@@ -190,3 +190,13 @@ def expected_events(a: Assumptions, T: float) -> dict:
         "events_intervention_arm": per_fac_year * a.c1 * T,
         "events_control_arm": per_fac_year * a.c0 * T,
     }
+
+
+# ----------------------------------------------------------------------------
+# Intervention ramp-up: average fraction of full effect over follow-up T when
+# the effect rises linearly from 0 to full over the first `ramp_years`.
+# ----------------------------------------------------------------------------
+def ramp_factor(T_years: float, ramp_years: float = 0.25) -> float:
+    if T_years <= ramp_years:
+        return 0.5 * T_years / ramp_years
+    return 1.0 - 0.5 * ramp_years / T_years

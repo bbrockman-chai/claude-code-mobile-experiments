@@ -51,7 +51,7 @@ of MDES under design D (12.5% -> 13.3% at 3 years).
 Figures: `figures/fig1` (randomised designs), `fig2` (non-randomised secondary
 analyses), `fig3` (outcome definition), `fig4` (sensitivity to heterogeneity
 and catchment size), `fig5` (power curves at 3 years, 25 vs 30 facilities),
-`fig6` (6-18 month horizon, section 1b).
+`fig6` (6-18 month horizon, section 1b), `fig7` (composite outcome, section 1c).
 Tables: `results/`.
 
 ---
@@ -134,6 +134,61 @@ guess and could easily be 6 for a new digital tool, which would push the
 12-month numbers up by another 2-3 points; the post-visit mortality rate (0.6%)
 and its between-facility CV (0.35) are guesses to be replaced by facility data;
 active follow-up must achieve the same completeness in both arms.
+
+---
+
+## 1c. Composite outcome: neonatal deaths + 30-day post-visit deaths
+
+`run_composite.py`, figure `figures/fig7_composite_neonatal_plus_sick_visit.png`.
+The composite is "death among every child who had a facility contact": births
+enrolled at delivery or first postnatal visit and followed to 28 days, plus
+sick-child visits (2-59 months) followed to 30 days. One follow-up system
+serves both.
+
+Events per cluster-year (large clusters, HC + hospital OPD):
+
+| Stream | Assumption | Events / cluster / yr |
+|---|---|---|
+| 30-day post-visit deaths | 6,000 visits x 0.6% | ~36 |
+| Neonatal deaths | 400 births x 85% followed x 31/1,000 | ~11 |
+| Composite | | ~47 |
+
+Minimum detectable reduction at 12 months (ramp-up included, 30 vs 150,
+baseline-adjusted): sick-visit only 15.2%, composite 14.2%. Without any usable
+baseline both jump to 22-23%, see the caveat below.
+
+But the composite effect is the event-weighted mean of the two component
+effects, so the neonatal stream only helps if the tool moves it too.
+Power at 12 months by the true effect on post-visit mortality:
+
+| Outcome | 15% | 20% | 25% | 30% |
+|---|---|---|---|---|
+| Sick-visit deaths only | 79% | 97% | 100% | 100% |
+| Composite, neonatal effect 0% | 61% | 87% | 98% | 100% |
+| Composite, neonatal effect 10% | 78% | 95% | 99% | 100% |
+| Composite, neonatal effect 20% | 90% | 98% | 100% | 100% |
+| Composite, neonatal effect equal to sick-visit effect | 84% | 98% | 100% | 100% |
+
+Break-even: the composite beats the sick-visit-only outcome when the neonatal
+effect is at least ~47% of the post-visit effect. Below that it dilutes.
+
+**Take.** Use the composite as the primary outcome only if the CDS tool has a
+real newborn component (delivery and immediate newborn care, sick young infant
+algorithm, postnatal danger signs) that you expect to move neonatal deaths by
+at least 10%. If the tool is an IMCI-style outpatient algorithm, keep
+post-visit mortality as primary and report neonatal mortality separately as a
+pre-specified secondary, since including it costs up to 18 points of power
+for no gain. Either way, enrolling births into the same follow-up system is
+cheap and gives the neonatal answer too.
+
+**Baseline caveat for post-visit outcomes.** DHIS2 has facility neonatal
+deaths but no post-visit mortality, so the baseline adjustment for the
+sick-visit stream has to work through proxies (facility U5 deaths, OPD
+volume, admissions, referrals). The two curves on the left of fig 7 bracket
+the answer: 15% with a baseline as good as a 3-year direct one, 23% with
+none. The truth is in between and is a strong reason to run 3-6 months of
+follow-up in all facilities before randomisation, which also debugs the
+follow-up system.
 
 ---
 
@@ -279,6 +334,7 @@ variance twice (pre and post) and inherits DHIS2 completeness.
   allocation and baseline adjustment, stepped wedge, DiD).
 - `run_analysis.py`: produces figures 1-5 and `results/`.
 - `run_short_horizon.py`: figure 6 and `results/short_horizon_mdes.csv` (6-18 months, ramp-up).
+- `run_composite.py`: figure 7 and `results/composite_mdes.csv` (neonatal + post-visit composite).
 - `plotting.py`: shared chart styling.
 - `results/mdes_by_design_and_duration.csv`, `results/power_by_design_effect_duration.csv`,
   `results/mdes_summary_table.md`.

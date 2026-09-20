@@ -1,0 +1,101 @@
+outcome,months,mdes_relative_reduction
+"Sick-visit deaths only (~36 events/cluster/yr), 3-yr proxy baseline",6.0,0.2290
+"Sick-visit deaths only (~36 events/cluster/yr), 3-yr proxy baseline",6.5,0.2164
+"Sick-visit deaths only (~36 events/cluster/yr), 3-yr proxy baseline",7.0,0.2060
+"Sick-visit deaths only (~36 events/cluster/yr), 3-yr proxy baseline",7.5,0.1971
+"Sick-visit deaths only (~36 events/cluster/yr), 3-yr proxy baseline",8.0,0.1894
+"Sick-visit deaths only (~36 events/cluster/yr), 3-yr proxy baseline",8.5,0.1827
+"Sick-visit deaths only (~36 events/cluster/yr), 3-yr proxy baseline",9.0,0.1767
+"Sick-visit deaths only (~36 events/cluster/yr), 3-yr proxy baseline",9.5,0.1715
+"Sick-visit deaths only (~36 events/cluster/yr), 3-yr proxy baseline",10.0,0.1667
+"Sick-visit deaths only (~36 events/cluster/yr), 3-yr proxy baseline",10.5,0.1624
+"Sick-visit deaths only (~36 events/cluster/yr), 3-yr proxy baseline",11.0,0.1586
+"Sick-visit deaths only (~36 events/cluster/yr), 3-yr proxy baseline",11.5,0.1550
+"Sick-visit deaths only (~36 events/cluster/yr), 3-yr proxy baseline",12.0,0.1518
+"Sick-visit deaths only (~36 events/cluster/yr), 3-yr proxy baseline",12.5,0.1488
+"Sick-visit deaths only (~36 events/cluster/yr), 3-yr proxy baseline",13.0,0.1460
+"Sick-visit deaths only (~36 events/cluster/yr), 3-yr proxy baseline",13.5,0.1435
+"Sick-visit deaths only (~36 events/cluster/yr), 3-yr proxy baseline",14.0,0.1411
+"Sick-visit deaths only (~36 events/cluster/yr), 3-yr proxy baseline",14.5,0.1389
+"Sick-visit deaths only (~36 events/cluster/yr), 3-yr proxy baseline",15.0,0.1368
+"Sick-visit deaths only (~36 events/cluster/yr), 3-yr proxy baseline",15.5,0.1348
+"Sick-visit deaths only (~36 events/cluster/yr), 3-yr proxy baseline",16.0,0.1330
+"Sick-visit deaths only (~36 events/cluster/yr), 3-yr proxy baseline",16.5,0.1313
+"Sick-visit deaths only (~36 events/cluster/yr), 3-yr proxy baseline",17.0,0.1296
+"Sick-visit deaths only (~36 events/cluster/yr), 3-yr proxy baseline",17.5,0.1281
+"Sick-visit deaths only (~36 events/cluster/yr), 3-yr proxy baseline",18.0,0.1266
+"Composite: + neonatal deaths (~47 events/cluster/yr), 3-yr baseline",6.0,0.2147
+"Composite: + neonatal deaths (~47 events/cluster/yr), 3-yr baseline",6.5,0.2030
+"Composite: + neonatal deaths (~47 events/cluster/yr), 3-yr baseline",7.0,0.1931
+"Composite: + neonatal deaths (~47 events/cluster/yr), 3-yr baseline",7.5,0.1847
+"Composite: + neonatal deaths (~47 events/cluster/yr), 3-yr baseline",8.0,0.1775
+"Composite: + neonatal deaths (~47 events/cluster/yr), 3-yr baseline",8.5,0.1712
+"Composite: + neonatal deaths (~47 events/cluster/yr), 3-yr baseline",9.0,0.1656
+"Composite: + neonatal deaths (~47 events/cluster/yr), 3-yr baseline",9.5,0.1607
+"Composite: + neonatal deaths (~47 events/cluster/yr), 3-yr baseline",10.0,0.1563
+"Composite: + neonatal deaths (~47 events/cluster/yr), 3-yr baseline",10.5,0.1522
+"Composite: + neonatal deaths (~47 events/cluster/yr), 3-yr baseline",11.0,0.1486
+"Composite: + neonatal deaths (~47 events/cluster/yr), 3-yr baseline",11.5,0.1453
+"Composite: + neonatal deaths (~47 events/cluster/yr), 3-yr baseline",12.0,0.1422
+"Composite: + neonatal deaths (~47 events/cluster/yr), 3-yr baseline",12.5,0.1394
+"Composite: + neonatal deaths (~47 events/cluster/yr), 3-yr baseline",13.0,0.1368
+"Composite: + neonatal deaths (~47 events/cluster/yr), 3-yr baseline",13.5,0.1344
+"Composite: + neonatal deaths (~47 events/cluster/yr), 3-yr baseline",14.0,0.1322
+"Composite: + neonatal deaths (~47 events/cluster/yr), 3-yr baseline",14.5,0.1301
+"Composite: + neonatal deaths (~47 events/cluster/yr), 3-yr baseline",15.0,0.1281
+"Composite: + neonatal deaths (~47 events/cluster/yr), 3-yr baseline",15.5,0.1263
+"Composite: + neonatal deaths (~47 events/cluster/yr), 3-yr baseline",16.0,0.1246
+"Composite: + neonatal deaths (~47 events/cluster/yr), 3-yr baseline",16.5,0.1229
+"Composite: + neonatal deaths (~47 events/cluster/yr), 3-yr baseline",17.0,0.1214
+"Composite: + neonatal deaths (~47 events/cluster/yr), 3-yr baseline",17.5,0.1200
+"Composite: + neonatal deaths (~47 events/cluster/yr), 3-yr baseline",18.0,0.1186
+"Sick-visit only, no usable baseline",6.0,0.2978
+"Sick-visit only, no usable baseline",6.5,0.2858
+"Sick-visit only, no usable baseline",7.0,0.2759
+"Sick-visit only, no usable baseline",7.5,0.2675
+"Sick-visit only, no usable baseline",8.0,0.2605
+"Sick-visit only, no usable baseline",8.5,0.2543
+"Sick-visit only, no usable baseline",9.0,0.2490
+"Sick-visit only, no usable baseline",9.5,0.2443
+"Sick-visit only, no usable baseline",10.0,0.2402
+"Sick-visit only, no usable baseline",10.5,0.2365
+"Sick-visit only, no usable baseline",11.0,0.2331
+"Sick-visit only, no usable baseline",11.5,0.2301
+"Sick-visit only, no usable baseline",12.0,0.2274
+"Sick-visit only, no usable baseline",12.5,0.2249
+"Sick-visit only, no usable baseline",13.0,0.2226
+"Sick-visit only, no usable baseline",13.5,0.2205
+"Sick-visit only, no usable baseline",14.0,0.2185
+"Sick-visit only, no usable baseline",14.5,0.2167
+"Sick-visit only, no usable baseline",15.0,0.2151
+"Sick-visit only, no usable baseline",15.5,0.2135
+"Sick-visit only, no usable baseline",16.0,0.2121
+"Sick-visit only, no usable baseline",16.5,0.2107
+"Sick-visit only, no usable baseline",17.0,0.2094
+"Sick-visit only, no usable baseline",17.5,0.2082
+"Sick-visit only, no usable baseline",18.0,0.2071
+"Composite, no usable baseline",6.0,0.2817
+"Composite, no usable baseline",6.5,0.2704
+"Composite, no usable baseline",7.0,0.2610
+"Composite, no usable baseline",7.5,0.2532
+"Composite, no usable baseline",8.0,0.2466
+"Composite, no usable baseline",8.5,0.2408
+"Composite, no usable baseline",9.0,0.2358
+"Composite, no usable baseline",9.5,0.2314
+"Composite, no usable baseline",10.0,0.2275
+"Composite, no usable baseline",10.5,0.2240
+"Composite, no usable baseline",11.0,0.2208
+"Composite, no usable baseline",11.5,0.2180
+"Composite, no usable baseline",12.0,0.2154
+"Composite, no usable baseline",12.5,0.2131
+"Composite, no usable baseline",13.0,0.2109
+"Composite, no usable baseline",13.5,0.2089
+"Composite, no usable baseline",14.0,0.2071
+"Composite, no usable baseline",14.5,0.2054
+"Composite, no usable baseline",15.0,0.2039
+"Composite, no usable baseline",15.5,0.2024
+"Composite, no usable baseline",16.0,0.2010
+"Composite, no usable baseline",16.5,0.1998
+"Composite, no usable baseline",17.0,0.1986
+"Composite, no usable baseline",17.5,0.1974
+"Composite, no usable baseline",18.0,0.1964
