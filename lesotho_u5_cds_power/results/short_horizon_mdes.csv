@@ -1,0 +1,251 @@
+design_or_outcome,months,mdes_relative_reduction
+"0. Starting point: 30 vs 30, 250 births/facility, no baseline",6.0,0.3141
+"0. Starting point: 30 vs 30, 250 births/facility, no baseline",6.5,0.3059
+"0. Starting point: 30 vs 30, 250 births/facility, no baseline",7.0,0.2986
+"0. Starting point: 30 vs 30, 250 births/facility, no baseline",7.5,0.2921
+"0. Starting point: 30 vs 30, 250 births/facility, no baseline",8.0,0.2862
+"0. Starting point: 30 vs 30, 250 births/facility, no baseline",8.5,0.2809
+"0. Starting point: 30 vs 30, 250 births/facility, no baseline",9.0,0.2761
+"0. Starting point: 30 vs 30, 250 births/facility, no baseline",9.5,0.2717
+"0. Starting point: 30 vs 30, 250 births/facility, no baseline",10.0,0.2676
+"0. Starting point: 30 vs 30, 250 births/facility, no baseline",10.5,0.2639
+"0. Starting point: 30 vs 30, 250 births/facility, no baseline",11.0,0.2605
+"0. Starting point: 30 vs 30, 250 births/facility, no baseline",11.5,0.2573
+"0. Starting point: 30 vs 30, 250 births/facility, no baseline",12.0,0.2543
+"0. Starting point: 30 vs 30, 250 births/facility, no baseline",12.5,0.2516
+"0. Starting point: 30 vs 30, 250 births/facility, no baseline",13.0,0.2490
+"0. Starting point: 30 vs 30, 250 births/facility, no baseline",13.5,0.2465
+"0. Starting point: 30 vs 30, 250 births/facility, no baseline",14.0,0.2443
+"0. Starting point: 30 vs 30, 250 births/facility, no baseline",14.5,0.2421
+"0. Starting point: 30 vs 30, 250 births/facility, no baseline",15.0,0.2401
+"0. Starting point: 30 vs 30, 250 births/facility, no baseline",15.5,0.2382
+"0. Starting point: 30 vs 30, 250 births/facility, no baseline",16.0,0.2364
+"0. Starting point: 30 vs 30, 250 births/facility, no baseline",16.5,0.2346
+"0. Starting point: 30 vs 30, 250 births/facility, no baseline",17.0,0.2330
+"0. Starting point: 30 vs 30, 250 births/facility, no baseline",17.5,0.2315
+"0. Starting point: 30 vs 30, 250 births/facility, no baseline",18.0,0.2300
+1. + 90 control facilities,6.0,0.2475
+1. + 90 control facilities,6.5,0.2411
+1. + 90 control facilities,7.0,0.2355
+1. + 90 control facilities,7.5,0.2305
+1. + 90 control facilities,8.0,0.2259
+1. + 90 control facilities,8.5,0.2218
+1. + 90 control facilities,9.0,0.2181
+1. + 90 control facilities,9.5,0.2147
+1. + 90 control facilities,10.0,0.2115
+1. + 90 control facilities,10.5,0.2086
+1. + 90 control facilities,11.0,0.2060
+1. + 90 control facilities,11.5,0.2035
+1. + 90 control facilities,12.0,0.2012
+1. + 90 control facilities,12.5,0.1990
+1. + 90 control facilities,13.0,0.1970
+1. + 90 control facilities,13.5,0.1951
+1. + 90 control facilities,14.0,0.1933
+1. + 90 control facilities,14.5,0.1916
+1. + 90 control facilities,15.0,0.1901
+1. + 90 control facilities,15.5,0.1886
+1. + 90 control facilities,16.0,0.1872
+1. + 90 control facilities,16.5,0.1858
+1. + 90 control facilities,17.0,0.1845
+1. + 90 control facilities,17.5,0.1833
+1. + 90 control facilities,18.0,0.1822
+2. + adjust for 3-yr DHIS2 baseline,6.0,0.2301
+2. + adjust for 3-yr DHIS2 baseline,6.5,0.2229
+2. + adjust for 3-yr DHIS2 baseline,7.0,0.2166
+2. + adjust for 3-yr DHIS2 baseline,7.5,0.2108
+2. + adjust for 3-yr DHIS2 baseline,8.0,0.2057
+2. + adjust for 3-yr DHIS2 baseline,8.5,0.2009
+2. + adjust for 3-yr DHIS2 baseline,9.0,0.1966
+2. + adjust for 3-yr DHIS2 baseline,9.5,0.1926
+2. + adjust for 3-yr DHIS2 baseline,10.0,0.1890
+2. + adjust for 3-yr DHIS2 baseline,10.5,0.1856
+2. + adjust for 3-yr DHIS2 baseline,11.0,0.1824
+2. + adjust for 3-yr DHIS2 baseline,11.5,0.1795
+2. + adjust for 3-yr DHIS2 baseline,12.0,0.1767
+2. + adjust for 3-yr DHIS2 baseline,12.5,0.1741
+2. + adjust for 3-yr DHIS2 baseline,13.0,0.1717
+2. + adjust for 3-yr DHIS2 baseline,13.5,0.1694
+2. + adjust for 3-yr DHIS2 baseline,14.0,0.1672
+2. + adjust for 3-yr DHIS2 baseline,14.5,0.1652
+2. + adjust for 3-yr DHIS2 baseline,15.0,0.1632
+2. + adjust for 3-yr DHIS2 baseline,15.5,0.1614
+2. + adjust for 3-yr DHIS2 baseline,16.0,0.1596
+2. + adjust for 3-yr DHIS2 baseline,16.5,0.1580
+2. + adjust for 3-yr DHIS2 baseline,17.0,0.1564
+2. + adjust for 3-yr DHIS2 baseline,17.5,0.1549
+2. + adjust for 3-yr DHIS2 baseline,18.0,0.1534
+3. + large catchments (400 births/facility/yr),6.0,0.1990
+3. + large catchments (400 births/facility/yr),6.5,0.1929
+3. + large catchments (400 births/facility/yr),7.0,0.1874
+3. + large catchments (400 births/facility/yr),7.5,0.1825
+3. + large catchments (400 births/facility/yr),8.0,0.1780
+3. + large catchments (400 births/facility/yr),8.5,0.1740
+3. + large catchments (400 births/facility/yr),9.0,0.1702
+3. + large catchments (400 births/facility/yr),9.5,0.1668
+3. + large catchments (400 births/facility/yr),10.0,0.1637
+3. + large catchments (400 births/facility/yr),10.5,0.1608
+3. + large catchments (400 births/facility/yr),11.0,0.1581
+3. + large catchments (400 births/facility/yr),11.5,0.1555
+3. + large catchments (400 births/facility/yr),12.0,0.1532
+3. + large catchments (400 births/facility/yr),12.5,0.1510
+3. + large catchments (400 births/facility/yr),13.0,0.1489
+3. + large catchments (400 births/facility/yr),13.5,0.1469
+3. + large catchments (400 births/facility/yr),14.0,0.1451
+3. + large catchments (400 births/facility/yr),14.5,0.1433
+3. + large catchments (400 births/facility/yr),15.0,0.1417
+3. + large catchments (400 births/facility/yr),15.5,0.1401
+3. + large catchments (400 births/facility/yr),16.0,0.1386
+3. + large catchments (400 births/facility/yr),16.5,0.1372
+3. + large catchments (400 births/facility/yr),17.0,0.1359
+3. + large catchments (400 births/facility/yr),17.5,0.1346
+3. + large catchments (400 births/facility/yr),18.0,0.1333
+4. + all ~150 other public facilities as controls,6.0,0.1872
+4. + all ~150 other public facilities as controls,6.5,0.1814
+4. + all ~150 other public facilities as controls,7.0,0.1763
+4. + all ~150 other public facilities as controls,7.5,0.1717
+4. + all ~150 other public facilities as controls,8.0,0.1675
+4. + all ~150 other public facilities as controls,8.5,0.1637
+4. + all ~150 other public facilities as controls,9.0,0.1602
+4. + all ~150 other public facilities as controls,9.5,0.1570
+4. + all ~150 other public facilities as controls,10.0,0.1541
+4. + all ~150 other public facilities as controls,10.5,0.1514
+4. + all ~150 other public facilities as controls,11.0,0.1488
+4. + all ~150 other public facilities as controls,11.5,0.1465
+4. + all ~150 other public facilities as controls,12.0,0.1442
+4. + all ~150 other public facilities as controls,12.5,0.1422
+4. + all ~150 other public facilities as controls,13.0,0.1402
+4. + all ~150 other public facilities as controls,13.5,0.1384
+4. + all ~150 other public facilities as controls,14.0,0.1367
+4. + all ~150 other public facilities as controls,14.5,0.1350
+4. + all ~150 other public facilities as controls,15.0,0.1335
+4. + all ~150 other public facilities as controls,15.5,0.1320
+4. + all ~150 other public facilities as controls,16.0,0.1306
+4. + all ~150 other public facilities as controls,16.5,0.1293
+4. + all ~150 other public facilities as controls,17.0,0.1280
+4. + all ~150 other public facilities as controls,17.5,0.1268
+4. + all ~150 other public facilities as controls,18.0,0.1256
+4 with 3-month ramp-up,6.0,0.2496
+4 with 3-month ramp-up,6.5,0.2359
+4 with 3-month ramp-up,7.0,0.2244
+4 with 3-month ramp-up,7.5,0.2146
+4 with 3-month ramp-up,8.0,0.2062
+4 with 3-month ramp-up,8.5,0.1988
+4 with 3-month ramp-up,9.0,0.1923
+4 with 3-month ramp-up,9.5,0.1865
+4 with 3-month ramp-up,10.0,0.1813
+4 with 3-month ramp-up,10.5,0.1766
+4 with 3-month ramp-up,11.0,0.1723
+4 with 3-month ramp-up,11.5,0.1684
+4 with 3-month ramp-up,12.0,0.1649
+4 with 3-month ramp-up,12.5,0.1616
+4 with 3-month ramp-up,13.0,0.1585
+4 with 3-month ramp-up,13.5,0.1557
+4 with 3-month ramp-up,14.0,0.1531
+4 with 3-month ramp-up,14.5,0.1506
+4 with 3-month ramp-up,15.0,0.1483
+4 with 3-month ramp-up,15.5,0.1461
+4 with 3-month ramp-up,16.0,0.1441
+4 with 3-month ramp-up,16.5,0.1422
+4 with 3-month ramp-up,17.0,0.1404
+4 with 3-month ramp-up,17.5,0.1387
+4 with 3-month ramp-up,18.0,0.1371
+"Outcome (ramp-up): All U5 deaths in catchment (65/1,000 births)",6.0,0.2496
+"Outcome (ramp-up): All U5 deaths in catchment (65/1,000 births)",6.5,0.2359
+"Outcome (ramp-up): All U5 deaths in catchment (65/1,000 births)",7.0,0.2244
+"Outcome (ramp-up): All U5 deaths in catchment (65/1,000 births)",7.5,0.2146
+"Outcome (ramp-up): All U5 deaths in catchment (65/1,000 births)",8.0,0.2062
+"Outcome (ramp-up): All U5 deaths in catchment (65/1,000 births)",8.5,0.1988
+"Outcome (ramp-up): All U5 deaths in catchment (65/1,000 births)",9.0,0.1923
+"Outcome (ramp-up): All U5 deaths in catchment (65/1,000 births)",9.5,0.1865
+"Outcome (ramp-up): All U5 deaths in catchment (65/1,000 births)",10.0,0.1813
+"Outcome (ramp-up): All U5 deaths in catchment (65/1,000 births)",10.5,0.1766
+"Outcome (ramp-up): All U5 deaths in catchment (65/1,000 births)",11.0,0.1723
+"Outcome (ramp-up): All U5 deaths in catchment (65/1,000 births)",11.5,0.1684
+"Outcome (ramp-up): All U5 deaths in catchment (65/1,000 births)",12.0,0.1649
+"Outcome (ramp-up): All U5 deaths in catchment (65/1,000 births)",12.5,0.1616
+"Outcome (ramp-up): All U5 deaths in catchment (65/1,000 births)",13.0,0.1585
+"Outcome (ramp-up): All U5 deaths in catchment (65/1,000 births)",13.5,0.1557
+"Outcome (ramp-up): All U5 deaths in catchment (65/1,000 births)",14.0,0.1531
+"Outcome (ramp-up): All U5 deaths in catchment (65/1,000 births)",14.5,0.1506
+"Outcome (ramp-up): All U5 deaths in catchment (65/1,000 births)",15.0,0.1483
+"Outcome (ramp-up): All U5 deaths in catchment (65/1,000 births)",15.5,0.1461
+"Outcome (ramp-up): All U5 deaths in catchment (65/1,000 births)",16.0,0.1441
+"Outcome (ramp-up): All U5 deaths in catchment (65/1,000 births)",16.5,0.1422
+"Outcome (ramp-up): All U5 deaths in catchment (65/1,000 births)",17.0,0.1404
+"Outcome (ramp-up): All U5 deaths in catchment (65/1,000 births)",17.5,0.1387
+"Outcome (ramp-up): All U5 deaths in catchment (65/1,000 births)",18.0,0.1371
+"Outcome (ramp-up): Deaths at 1-59 months (34/1,000 births)",6.0,0.3085
+"Outcome (ramp-up): Deaths at 1-59 months (34/1,000 births)",6.5,0.2917
+"Outcome (ramp-up): Deaths at 1-59 months (34/1,000 births)",7.0,0.2776
+"Outcome (ramp-up): Deaths at 1-59 months (34/1,000 births)",7.5,0.2656
+"Outcome (ramp-up): Deaths at 1-59 months (34/1,000 births)",8.0,0.2552
+"Outcome (ramp-up): Deaths at 1-59 months (34/1,000 births)",8.5,0.2462
+"Outcome (ramp-up): Deaths at 1-59 months (34/1,000 births)",9.0,0.2382
+"Outcome (ramp-up): Deaths at 1-59 months (34/1,000 births)",9.5,0.2310
+"Outcome (ramp-up): Deaths at 1-59 months (34/1,000 births)",10.0,0.2246
+"Outcome (ramp-up): Deaths at 1-59 months (34/1,000 births)",10.5,0.2188
+"Outcome (ramp-up): Deaths at 1-59 months (34/1,000 births)",11.0,0.2136
+"Outcome (ramp-up): Deaths at 1-59 months (34/1,000 births)",11.5,0.2088
+"Outcome (ramp-up): Deaths at 1-59 months (34/1,000 births)",12.0,0.2044
+"Outcome (ramp-up): Deaths at 1-59 months (34/1,000 births)",12.5,0.2003
+"Outcome (ramp-up): Deaths at 1-59 months (34/1,000 births)",13.0,0.1966
+"Outcome (ramp-up): Deaths at 1-59 months (34/1,000 births)",13.5,0.1931
+"Outcome (ramp-up): Deaths at 1-59 months (34/1,000 births)",14.0,0.1898
+"Outcome (ramp-up): Deaths at 1-59 months (34/1,000 births)",14.5,0.1868
+"Outcome (ramp-up): Deaths at 1-59 months (34/1,000 births)",15.0,0.1840
+"Outcome (ramp-up): Deaths at 1-59 months (34/1,000 births)",15.5,0.1813
+"Outcome (ramp-up): Deaths at 1-59 months (34/1,000 births)",16.0,0.1788
+"Outcome (ramp-up): Deaths at 1-59 months (34/1,000 births)",16.5,0.1764
+"Outcome (ramp-up): Deaths at 1-59 months (34/1,000 births)",17.0,0.1742
+"Outcome (ramp-up): Deaths at 1-59 months (34/1,000 births)",17.5,0.1721
+"Outcome (ramp-up): Deaths at 1-59 months (34/1,000 births)",18.0,0.1701
+"Outcome (ramp-up): 30-day post-visit deaths, health centres (0.6% of 3,000 visits/yr)",6.0,0.2815
+"Outcome (ramp-up): 30-day post-visit deaths, health centres (0.6% of 3,000 visits/yr)",6.5,0.2662
+"Outcome (ramp-up): 30-day post-visit deaths, health centres (0.6% of 3,000 visits/yr)",7.0,0.2535
+"Outcome (ramp-up): 30-day post-visit deaths, health centres (0.6% of 3,000 visits/yr)",7.5,0.2426
+"Outcome (ramp-up): 30-day post-visit deaths, health centres (0.6% of 3,000 visits/yr)",8.0,0.2332
+"Outcome (ramp-up): 30-day post-visit deaths, health centres (0.6% of 3,000 visits/yr)",8.5,0.2250
+"Outcome (ramp-up): 30-day post-visit deaths, health centres (0.6% of 3,000 visits/yr)",9.0,0.2178
+"Outcome (ramp-up): 30-day post-visit deaths, health centres (0.6% of 3,000 visits/yr)",9.5,0.2113
+"Outcome (ramp-up): 30-day post-visit deaths, health centres (0.6% of 3,000 visits/yr)",10.0,0.2056
+"Outcome (ramp-up): 30-day post-visit deaths, health centres (0.6% of 3,000 visits/yr)",10.5,0.2003
+"Outcome (ramp-up): 30-day post-visit deaths, health centres (0.6% of 3,000 visits/yr)",11.0,0.1956
+"Outcome (ramp-up): 30-day post-visit deaths, health centres (0.6% of 3,000 visits/yr)",11.5,0.1913
+"Outcome (ramp-up): 30-day post-visit deaths, health centres (0.6% of 3,000 visits/yr)",12.0,0.1873
+"Outcome (ramp-up): 30-day post-visit deaths, health centres (0.6% of 3,000 visits/yr)",12.5,0.1837
+"Outcome (ramp-up): 30-day post-visit deaths, health centres (0.6% of 3,000 visits/yr)",13.0,0.1803
+"Outcome (ramp-up): 30-day post-visit deaths, health centres (0.6% of 3,000 visits/yr)",13.5,0.1771
+"Outcome (ramp-up): 30-day post-visit deaths, health centres (0.6% of 3,000 visits/yr)",14.0,0.1742
+"Outcome (ramp-up): 30-day post-visit deaths, health centres (0.6% of 3,000 visits/yr)",14.5,0.1715
+"Outcome (ramp-up): 30-day post-visit deaths, health centres (0.6% of 3,000 visits/yr)",15.0,0.1690
+"Outcome (ramp-up): 30-day post-visit deaths, health centres (0.6% of 3,000 visits/yr)",15.5,0.1666
+"Outcome (ramp-up): 30-day post-visit deaths, health centres (0.6% of 3,000 visits/yr)",16.0,0.1643
+"Outcome (ramp-up): 30-day post-visit deaths, health centres (0.6% of 3,000 visits/yr)",16.5,0.1622
+"Outcome (ramp-up): 30-day post-visit deaths, health centres (0.6% of 3,000 visits/yr)",17.0,0.1602
+"Outcome (ramp-up): 30-day post-visit deaths, health centres (0.6% of 3,000 visits/yr)",17.5,0.1583
+"Outcome (ramp-up): 30-day post-visit deaths, health centres (0.6% of 3,000 visits/yr)",18.0,0.1565
+"Outcome (ramp-up): 30-day post-visit deaths, HCs + hospital OPDs (6,000 visits/yr)",6.0,0.2299
+"Outcome (ramp-up): 30-day post-visit deaths, HCs + hospital OPDs (6,000 visits/yr)",6.5,0.2174
+"Outcome (ramp-up): 30-day post-visit deaths, HCs + hospital OPDs (6,000 visits/yr)",7.0,0.2070
+"Outcome (ramp-up): 30-day post-visit deaths, HCs + hospital OPDs (6,000 visits/yr)",7.5,0.1981
+"Outcome (ramp-up): 30-day post-visit deaths, HCs + hospital OPDs (6,000 visits/yr)",8.0,0.1904
+"Outcome (ramp-up): 30-day post-visit deaths, HCs + hospital OPDs (6,000 visits/yr)",8.5,0.1837
+"Outcome (ramp-up): 30-day post-visit deaths, HCs + hospital OPDs (6,000 visits/yr)",9.0,0.1778
+"Outcome (ramp-up): 30-day post-visit deaths, HCs + hospital OPDs (6,000 visits/yr)",9.5,0.1726
+"Outcome (ramp-up): 30-day post-visit deaths, HCs + hospital OPDs (6,000 visits/yr)",10.0,0.1679
+"Outcome (ramp-up): 30-day post-visit deaths, HCs + hospital OPDs (6,000 visits/yr)",10.5,0.1636
+"Outcome (ramp-up): 30-day post-visit deaths, HCs + hospital OPDs (6,000 visits/yr)",11.0,0.1597
+"Outcome (ramp-up): 30-day post-visit deaths, HCs + hospital OPDs (6,000 visits/yr)",11.5,0.1562
+"Outcome (ramp-up): 30-day post-visit deaths, HCs + hospital OPDs (6,000 visits/yr)",12.0,0.1530
+"Outcome (ramp-up): 30-day post-visit deaths, HCs + hospital OPDs (6,000 visits/yr)",12.5,0.1500
+"Outcome (ramp-up): 30-day post-visit deaths, HCs + hospital OPDs (6,000 visits/yr)",13.0,0.1473
+"Outcome (ramp-up): 30-day post-visit deaths, HCs + hospital OPDs (6,000 visits/yr)",13.5,0.1447
+"Outcome (ramp-up): 30-day post-visit deaths, HCs + hospital OPDs (6,000 visits/yr)",14.0,0.1423
+"Outcome (ramp-up): 30-day post-visit deaths, HCs + hospital OPDs (6,000 visits/yr)",14.5,0.1401
+"Outcome (ramp-up): 30-day post-visit deaths, HCs + hospital OPDs (6,000 visits/yr)",15.0,0.1381
+"Outcome (ramp-up): 30-day post-visit deaths, HCs + hospital OPDs (6,000 visits/yr)",15.5,0.1361
+"Outcome (ramp-up): 30-day post-visit deaths, HCs + hospital OPDs (6,000 visits/yr)",16.0,0.1343
+"Outcome (ramp-up): 30-day post-visit deaths, HCs + hospital OPDs (6,000 visits/yr)",16.5,0.1326
+"Outcome (ramp-up): 30-day post-visit deaths, HCs + hospital OPDs (6,000 visits/yr)",17.0,0.1310
+"Outcome (ramp-up): 30-day post-visit deaths, HCs + hospital OPDs (6,000 visits/yr)",17.5,0.1294
+"Outcome (ramp-up): 30-day post-visit deaths, HCs + hospital OPDs (6,000 visits/yr)",18.0,0.1280

@@ -50,8 +50,90 @@ of MDES under design D (12.5% -> 13.3% at 3 years).
 
 Figures: `figures/fig1` (randomised designs), `fig2` (non-randomised secondary
 analyses), `fig3` (outcome definition), `fig4` (sensitivity to heterogeneity
-and catchment size), `fig5` (power curves at 3 years, 25 vs 30 facilities).
+and catchment size), `fig5` (power curves at 3 years, 25 vs 30 facilities),
+`fig6` (6-18 month horizon, section 1b).
 Tables: `results/`.
+
+---
+
+## 1b. Short horizon: what is doable within 12 months?
+
+`run_short_horizon.py` zooms into 6-18 months, stacks the design choices
+cumulatively and adds a 3-month linear ramp-up to full fidelity (a tool
+deployed at month 0 is not changing care on day one). Figure:
+`figures/fig6_short_horizon_6_to_18_months.png`.
+
+Minimum detectable reduction in all-cause under-5 mortality at 12 months,
+each choice added to the last:
+
+| Design (cumulative) | MDES at 12 months |
+|---|---|
+| 0. 30 vs 30, 250 births/facility/yr, no baseline | 25% |
+| 1. + 90 control facilities | 20% |
+| 2. + adjust for 3-yr DHIS2 baseline | 18% |
+| 3. + large catchments (400 births/facility/yr) | 15% |
+| 4. + all ~150 other public facilities as randomised controls | 14% |
+| 4 with a 3-month ramp-up (realistic) | 16.5% |
+| 4 with ramp-up, 25 rather than 30 intervention facilities | 17.6% |
+| 4 with ramp-up, one-sided test | 14.8% |
+
+With everything stacked and a realistic ramp-up, by outcome:
+
+| Outcome | 6 mo | 9 mo | 12 mo | 15 mo | 18 mo | plausible true effect |
+|---|---|---|---|---|---|---|
+| All U5 deaths in catchment | 25% | 19% | 16% | 15% | 14% | 10-15% |
+| Deaths at 1-59 months | 31% | 24% | 20% | 18% | 17% | 19-29% |
+| 30-day post-visit deaths, health centres (3,000 visits/yr) | 28% | 22% | 19% | 17% | 16% | 20-30% (guess) |
+| 30-day post-visit deaths, HCs + hospital OPDs (6,000 visits/yr) | 23% | 18% | 15% | 14% | 13% | 20-30% (guess) |
+
+Power at 12 months (ramp-up included) if the true effect on the chosen outcome is:
+
+| Outcome | 15% | 20% | 25% | 30% |
+|---|---|---|---|---|
+| All U5 deaths | 71% | 94% | 99% | 100% |
+| 1-59 month deaths | 51% | 78% | 94% | 99% |
+| Post-visit deaths, HCs | 59% | 85% | 97% | 100% |
+| Post-visit deaths, HCs + hospitals | 78% | 97% | 100% | 100% |
+
+**Reading.** A 12-month result on all-cause under-5 mortality is only
+convincing if the true effect is about 20% or more, which is above what IMCI
+programmes have shown. Six months is not a mortality trial under any design
+here (MDES 23-31%). The realistic way to get a mortality answer in 12 months
+is to change the outcome to one the tool acts on directly and that has more
+events per cluster: 30-day mortality after a sick-child visit, with active
+follow-up (phone call or village health worker visit) in both arms, and with
+hospital outpatient departments included in the clusters to double the
+denominators. That outcome has a plausibly larger effect (20-30%) than
+all-cause mortality and reaches ~80% power for a 15% effect and ~97% for 20%
+at 12 months. The 1-59 month outcome is the right restriction conceptually
+but has too few events to be quick on its own.
+
+**Recommended 12-month package.**
+1. Primary outcome: 30-day mortality after a sick-child visit (age 2-59
+   months), ascertained by active follow-up independent of the CDS tool.
+   Secondary: all-cause 1-59 month mortality in the catchment via village
+   health worker death reporting, and process measures (correct
+   classification, treatment, referral completion), which will be
+   definitive within months.
+2. Clusters: 30 intervention facilities chosen for burden *and* volume,
+   pairing each district hospital OPD with its filter clinics; every other
+   public facility in the DHIS2 panel as a randomised control (constrained
+   randomisation on 3-year baseline mortality, volume and district).
+3. Analysis: baseline-adjusted cluster-level comparison as primary;
+   pre-specified DiD/synthetic control on the full DHIS2 panel as secondary;
+   a Bayesian summary (posterior probability of >=10% reduction) reported
+   alongside, which is more informative than a p-value at 12 months.
+4. Timing: 3-month ramp-up, 12-month primary read-out, with a pre-specified
+   option to extend to 24 months for the catchment-mortality secondary
+   outcome, where the curves keep improving.
+5. Seasonality: a 12-month window covers one full diarrhoea/pneumonia
+   season; anything shorter must be season-matched against baseline.
+
+Caveats specific to the short horizon: the ramp-up assumption (3 months) is a
+guess and could easily be 6 for a new digital tool, which would push the
+12-month numbers up by another 2-3 points; the post-visit mortality rate (0.6%)
+and its between-facility CV (0.35) are guesses to be replaced by facility data;
+active follow-up must achieve the same completeness in both arms.
 
 ---
 
@@ -195,7 +277,9 @@ variance twice (pre and post) and inherits DHIS2 completeness.
 
 - `model.py`: variance-components power model (parallel CRT with unequal
   allocation and baseline adjustment, stepped wedge, DiD).
-- `run_analysis.py`: produces `figures/` and `results/`.
+- `run_analysis.py`: produces figures 1-5 and `results/`.
+- `run_short_horizon.py`: figure 6 and `results/short_horizon_mdes.csv` (6-18 months, ramp-up).
+- `plotting.py`: shared chart styling.
 - `results/mdes_by_design_and_duration.csv`, `results/power_by_design_effect_duration.csv`,
   `results/mdes_summary_table.md`.
 
